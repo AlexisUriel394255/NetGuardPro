@@ -130,15 +130,3 @@ Toda la información técnica y empresarial contenida en este README fue obtenid
 
 ---
 
-**¡El README para GitHub está listo!**
-
-Ahora que los **Hitos 1 y 2** están completados y formateados, pasemos al último paso:
-
-* **Hito 3:** Escribe un artículo para proporcionar información sobre estrategias de seguridad esenciales a nuestros clientes (25 min).
-
-Para comenzar con este artículo, por favor, dime tu área de especialización:
-
-1.  **Desarrollo de Software**
-2.  **Soporte de TI**
-3.  **Ingeniería de Plataformas**
-4.  **Análisis de Datos**
